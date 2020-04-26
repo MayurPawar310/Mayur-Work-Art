@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+/*main header */
+.main-header{
+    background-color: #212121;
+    color: white;
+    text-align: right;
+
+
+}
+
+
+
+
+/* Latest news*/
+
+.latest-news{
+    background-color: black;
+    margin-top: 50px;
+    padding: 15px;
+    overflow: hidden;
+}
+
+.text{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+/* Main Footer */
+.main-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+
+.main-footer a, .main-footer.fa{
+    color: orange;
+}
+
+.fa fa-user-circle-o{
+    color: orange;
+}
+
